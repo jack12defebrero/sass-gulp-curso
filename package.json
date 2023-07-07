@@ -1,0 +1,26 @@
+{
+  "name": "festivalmusica_inicio",
+  "version": "1.0.0",
+  "description": "Proyecto con Gulp y sass",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jack12defebrero/sass-gulp-curso.git"
+  },
+  "keywords": [
+    "SASS",
+    "Gulp"
+  ],
+  "author": "Jack Inga Ñaupa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jack12defebrero/sass-gulp-curso/issues"
+  },
+  "homepage": "https://github.com/jack12defebrero/sass-gulp-curso#readme",
+  "dependencies": {
+    "sass": "^1.63.6"
+  }
+}
